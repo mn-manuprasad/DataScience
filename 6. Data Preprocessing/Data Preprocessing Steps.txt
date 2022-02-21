@@ -1,0 +1,15 @@
+Data Preprocessing Steps
+
+1. Handling Missing Values
+
+2. Handling Outliers
+
+3. Handling Categorical Data (Encoding and Removing the garbage)
+
+4. Date Handling
+
+5. Spliting into Independent and Dependent
+
+6. Train and Test
+
+7. Scaling 
